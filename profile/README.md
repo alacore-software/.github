@@ -1,8 +1,8 @@
-# AlaCore
+# ALA Core
 
 ### Building what's next, together.
 
-AlaCore is a technology company creating digital products and intelligent systems for a changing world. We bring engineering, design, and AI together to turn complex challenges into practical solutions for people and organizations across industries.
+ALA Core is a technology company creating digital products and intelligent systems for a changing world. We bring engineering, design, and AI together to turn complex challenges into practical solutions for people and organizations across industries.
 
 Our work is guided by a simple idea: technology should create meaningful progress. That means understanding the problem, building with purpose, and continuing to improve what we put into the world.
 
